@@ -7,5 +7,6 @@ public class HaloGit_Idea {
         System.out.println("Idea5主干冲突: Halo_Git!");
         System.out.println("Idea5分支冲突: Halo_Git!");
         System.out.println("Idea6_GitHub测试: Halo_Git!");
+        System.out.println("Idea6_github_add: Halo_Git!");
     }
 }
